@@ -1,4 +1,4 @@
-# INSTA_BOT
+# Instabot
 
 Basically , a simple project to start or get an idea of Web Scraping.Today there is a lot of scope in advertizement industry on instagram so INSTA_BOT is such a way.
 
